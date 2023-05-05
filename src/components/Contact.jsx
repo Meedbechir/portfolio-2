@@ -35,7 +35,7 @@ const Contact = () => {
         <div className="col-lg-6 col-md-6 col-sm-12">
           <img src={photo1} alt="img" />
         </div>
-        <button className="btn btn-warning mx-3 w-25">Envoyer</button>
+        <button className="btn btn-primary mx-3 w-25">Envoyer</button>
       </div>
     </div>
   );
